@@ -1,7 +1,7 @@
 ## Welcome! 👋
 
 <div align="center">
-<img src="https://c.tenor.com/1iPPSKQjIQYAAAAi/hi-hello.gif">
+<img src="https://c.tenor.com/1iPPSKQjIQYAAAAi/hi-hello.gif?resize=200%2C200">
 <h3> I'm a software development student.</h3>
 
 *"Compare Yourself to Who You Were Yesterday, Not Who Someone Else is Today"* - Rule 4, Jordan Peterson
