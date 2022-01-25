@@ -1,6 +1,7 @@
-## Hello, World! 👋
+## Welcome! 👋
 
 <div align="center">
+![Hi](https://c.tenor.com/1iPPSKQjIQYAAAAi/hi-hello.gif)
 <h3> I'm a software development student.</h3>
 
 *"Compare Yourself to Who You Were Yesterday, Not Who Someone Else is Today"* - Rule 4, Jordan Peterson
