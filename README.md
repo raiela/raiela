@@ -1,8 +1,28 @@
 ## Welcome! 👋
 
 <div align="center">
-<img src="https://c.tenor.com/1iPPSKQjIQYAAAAi/hi-hello.gif" style="max-width: 30%;">
-<h3> I'm a software development student!</h3>
+
+<h3> My name is Raiela Quirino and I'm a software development student!
+
+🛠: Languages and Tools : </h3>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="python" alt="python" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title="java" alt="Java" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" title="ruby" alt="ruby" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="c" alt="c" width="33" height="33" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" title="c" alt="c" width="33" height="33" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="html" alt="html" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="css" alt="css" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="nodejs" alt="nodejs" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg"  title="flutter" alt="flutter" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"  title="confluence" alt="confluence" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" alt="git" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="postgress" alt="postgress" width="33" height="33"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" title="dart" alt="dart" width="33" height="33"/>
+
+</div>
+
 
 *"Compare Yourself to Who You Were Yesterday, Not Who Someone Else is Today"* - Rule 4, Jordan Peterson
 
