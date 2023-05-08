@@ -6,7 +6,7 @@
 
 - 👨‍🎓 Computer Technician at the Federal Institute of Alagoas [2014-2018]
 - 🎓 Bachelor's Degree in Computer Science at the Federal University of Alagoas [2018-2022]
-- 🤓 I'm a software development student!
+- 🤓 I'm a Jr software development!
 - 📒 Reader in spare time
   
 -----
